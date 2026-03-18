@@ -2,6 +2,8 @@
 
 Recently, I've been building **native mobile plugins for the Godot Game Engine**, helping developers integrate Android and iOS platform features into their games and apps with ease.
 
+<br>
+
 ## 🚀 Godot Plugins
 
 These plugins provide a **common GDScript interface that bridges Godot with native Android and iOS capabilities**, allowing mobile game developers to **write their code once and have it work seamlessly on both platforms**.
@@ -20,10 +22,18 @@ These plugins provide a **common GDScript interface that bridges Godot with nati
 | <img src="https://raw.githubusercontent.com/godot-mobile-plugins/godot-share/main/addon/src/icon.png" width="20"> | [Share](https://github.com/godot-mobile-plugins/godot-share) | ✅ | ✅ | <a href="https://github.com/godot-mobile-plugins/godot-share/releases"><img src="https://img.shields.io/github/release-date/godot-mobile-plugins/godot-share?label=%20" /> <img src="https://img.shields.io/github/v/release/godot-mobile-plugins/godot-share?label=%20" /></a> | <img src="https://img.shields.io/github/downloads/godot-mobile-plugins/godot-share/latest/total?label=latest" /> <img src="https://img.shields.io/github/downloads/godot-mobile-plugins/godot-share/total?label=total" /> | <img src="https://img.shields.io/github/stars/godot-mobile-plugins/godot-share?style=plastic&label=%20" /> |
 | <img src="https://raw.githubusercontent.com/godot-mobile-plugins/godot-plugin-template/main/addon/src/icon.png" width="20"> | [Plugin Template](https://github.com/godot-mobile-plugins/godot-plugin-template) | ✅ | ✅ | - <!-- <a href="https://github.com/godot-mobile-plugins/godot-plugin-template/releases"><img src="https://img.shields.io/github/release-date/godot-mobile-plugins/godot-plugin-template?label=%20" /> <img src="https://img.shields.io/github/v/release/godot-mobile-plugins/godot-plugin-template?label=%20" /></a> --> | - <!-- <img src="https://img.shields.io/github/downloads/godot-mobile-plugins/godot-plugin-template/latest/total?label=latest" /> <img src="https://img.shields.io/github/downloads/godot-mobile-plugins/godot-plugin-template/total?label=%20" /> --> | <img src="https://img.shields.io/github/stars/godot-mobile-plugins/godot-plugin-template?style=plastic&label=%20" /> |
 
-## 🤝 Contributions
+### 🤝 Contributions
 
 If you use these plugins in your project, it would be helpful if you could...
 
 * ⭐ Star the repository
 * 🐞 Report issues
 * 💡 Suggest improvements
+
+<br>
+
+## 📊 `cengiz-pz` GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cengiz-pz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph" />
+</div>
